@@ -21,5 +21,7 @@ Through SIG.com I have also been hosting meetings, workshops and helping with te
 - SQLite
 - XML
 
+See more at the [My Projects Page](/projects).
+
 #### Other work experience
 I have worked at a few locations, to find out more, email me at [mcginnis@claymav.com](mailto:mcginnis@claymav.com)
