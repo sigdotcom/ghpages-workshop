@@ -1,0 +1,6 @@
+name: Swoly
+desc: app for fitness
+techs:
+  - name: SQLite
+  - name: Java
+  - name: XML

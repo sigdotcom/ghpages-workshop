@@ -3,4 +3,14 @@ layout: default
 title: "Portfolio"
 ---
 
+{% capture x %}
+{% include_relative education.md %}
+{% include_relative experience.md %}
+{% include_relative skills.md %}
+{% endcapture %}
+
 {% include header.html %}
+<div markdown="1">
+{{ x | markdownify }}
+</div>
+<a href="/projects">Projects</a>
